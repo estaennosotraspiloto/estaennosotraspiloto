@@ -34,7 +34,7 @@ main:
     url: "/portfolio-2"
   - name: "404"
     url: "/404"
-- name: Biografía de Mujeres en STEM
+- name: Mujeres en STEM
   url: ''
   submenu: ''
 footer:
