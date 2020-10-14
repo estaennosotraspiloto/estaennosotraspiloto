@@ -23,7 +23,7 @@ main:
     url: "/blog-1"
   - name: Blog Two
     url: "/blog-2"
-- name: Becas
+- name: Contactos
   url: "/"
   submenu:
   - name: Services
