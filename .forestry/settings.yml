@@ -28,8 +28,8 @@ sections:
   label: Portfolios
   create: all
   match: "**/*"
-upload_dir: assets/images
-public_path: "/assets/images"
+upload_dir: assets/images/team
+public_path: "/assets/images/team"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
