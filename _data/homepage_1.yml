@@ -25,17 +25,16 @@ services:
     labore et dolore magna.
 testimonial:
   enable: true
-  title: clients feedback
-  subtitle: testimonials
+  title: " ¿Cómo es cursar una carrera STEM?"
+  subtitle: Testimonios
   bg_image: "/assets/images/bg/testimonial-bg.png"
   item:
-  - name: Liam Hughes
-    designation: Manager
+  - name: María
+    designation: 'Estudiante de Ingeniería Civil '
     image: "/assets/images/team/test-1.jpg"
-    content: Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris
-      nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim est laborum. sed ut perspiciatis.
+    content: 'La ingeniería civil es una carrera que te permite como la física y su
+      aplicación han influenciado nuestro entorno. No cualquiera logra hacer que un
+      edificio no se caiga. '
   - name: Jane Austin
     designation: Designer
     image: "/assets/images/team/test-2.jpg"
