@@ -1,5 +1,8 @@
 ---
 main:
+- name: Blog
+  url: ''
+  submenu: ''
 - name: Inicio
   url: "/"
   submenu:
