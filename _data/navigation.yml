@@ -28,7 +28,7 @@ main:
 - name: Contactos
   url: "/"
   submenu:
-  - name: Services
+  - name: Universidades y Centros Técnicos
     url: "/services"
   - name: Portfolio One
     url: "/portfolio-1"
