@@ -12,6 +12,8 @@ main:
 - name: Información STEM
   url: "#"
   submenu:
+  - name: Oportunidades de becas
+    url: ''
   - name: Carreras STEM
     url: "/about"
   - name: 'Tipos de grados '
