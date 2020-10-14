@@ -27,7 +27,7 @@ testimonial:
   enable: true
   title: " ¿Cómo es cursar una carrera STEM?"
   subtitle: Testimonios
-  bg_image: "/assets/images/team/team-2.jpg"
+  bg_image: ''
   item:
   - name: María Cordero
     designation: 'Estudiante de Ingeniería Civil '
