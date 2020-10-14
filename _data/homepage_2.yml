@@ -14,8 +14,8 @@ services:
   item:
   - name: 'Ciencia '
     icon: ti-ruler-pencil
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore et dolore magna.
+    content: Conjunto de conocimientos que se adquieren por medio de la observación
+      y el razonamiento.
   - name: Seo & Marketing
     icon: ti-announcement
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
