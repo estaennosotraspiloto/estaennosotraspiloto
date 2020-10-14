@@ -29,7 +29,7 @@ testimonial:
   subtitle: Testimonios
   bg_image: "/assets/images/bg/testimonial-bg.png"
   item:
-  - name: María
+  - name: María Cordero
     designation: 'Estudiante de Ingeniería Civil '
     image: "/assets/images/team/test-1.jpg"
     content: 'La ingeniería civil es una carrera que te permite como la física y su
