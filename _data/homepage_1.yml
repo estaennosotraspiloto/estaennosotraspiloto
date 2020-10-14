@@ -35,13 +35,11 @@ testimonial:
     content: 'La ingeniería civil es una carrera que te permite experimentar cómo
       la física y su aplicación han influenciado nuestro entorno. No cualquiera logra
       hacer que un edificio no se caiga. '
-  - name: Jane Austin
-    designation: Designer
+  - name: Diana Ramírez
+    designation: Estudiante de medicina
     image: "/assets/images/team/test-2.jpg"
-    content: Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris
-      nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim est laborum. sed ut perspiciatis.
+    content: 'Siempre supe que mi vocación era la medicina, hoy puedo decir que a
+      pesar de que algunos días son duros, todo vale la pena. '
   - name: Jimena López
     designation: Estudiante de Matemáticas
     image: "/assets/images/team/6315281889_93aef81128_b.jpg"
