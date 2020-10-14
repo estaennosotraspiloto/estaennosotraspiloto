@@ -14,7 +14,7 @@ main:
   submenu:
   - name: Carreras STEM
     url: "/about"
-  - name: About Me
+  - name: 'Tipos de grados '
     url: "/about-me"
 - name: Mujeres y STEM
   url: "/blog-1"
