@@ -12,7 +12,7 @@ main:
 - name: Información STEM
   url: "#"
   submenu:
-  - name: About
+  - name: Carreras STEM
     url: "/about"
   - name: About Me
     url: "/about-me"
