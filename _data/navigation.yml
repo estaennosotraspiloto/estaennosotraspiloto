@@ -21,7 +21,7 @@ main:
 - name: Mujeres y STEM
   url: "/blog-1"
   submenu:
-  - name: Blog One
+  - name: Biografía Mujeres en STEM
     url: "/blog-1"
   - name: Blog Two
     url: "/blog-2"
