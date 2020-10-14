@@ -29,12 +29,6 @@ social:
 - name: facebook
   icon: ti-facebook
   link: "#"
-- name: twitter
-  icon: ti-twitter-alt
-  link: "#"
-- name: linkedin
-  icon: ti-linkedin
-  link: "#"
 - name: pinterest
   icon: ti-pinterest
   link: "#"
