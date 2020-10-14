@@ -30,7 +30,7 @@ main:
   submenu:
   - name: Universidades y Centros Técnicos
     url: "/services"
-  - name: Portfolio One
+  - name: Ministerio de Ciencia, Tecnología y Telecomunicaciones
     url: "/portfolio-1"
   - name: Portfolio Two
     url: "/portfolio-2"
