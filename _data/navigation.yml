@@ -16,7 +16,7 @@ main:
     url: "/about"
   - name: About Me
     url: "/about-me"
-- name: 'Tipos de grados '
+- name: 'Grados '
   url: "/blog-1"
   submenu:
   - name: Blog One
