@@ -1,6 +1,6 @@
 ---
 main:
-- name: ''
+- name: Noticias
   url: ''
   submenu: ''
 - name: Inicio
@@ -37,11 +37,11 @@ main:
     url: "/portfolio-2"
   - name: "404"
     url: "/404"
-- name: Contactos
-  url: "/contact"
 - name: Blog
   url: ''
   submenu: ''
+- name: Contactos
+  url: "/contact"
 footer:
 - name: Services
   url: "/services"
