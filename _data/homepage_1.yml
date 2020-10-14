@@ -42,13 +42,11 @@ testimonial:
       dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris
       nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa
       qui officia deserunt mollit anim est laborum. sed ut perspiciatis.
-  - name: Liolane hussy
-    designation: Developer
+  - name: Jimena López
+    designation: Estudiante de Matemáticas
     image: "/assets/images/team/test-3.jpg"
-    content: Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris
-      nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim est laborum. sed ut perspiciatis.
+    content: 'El que sea difícil, no lo hace imposible. No hay mayor satisfacción
+      que lograr aquello por lo que tanto luchaste. '
 funfacts:
   enable: true
   bg_image: "/assets/images/bg/cta-bg.png"
