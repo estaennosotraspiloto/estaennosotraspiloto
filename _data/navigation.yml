@@ -34,8 +34,6 @@ main:
     url: "/portfolio-2"
   - name: Ministerio de Ciencia, Tecnología y Telecomunicaciones
     url: "/portfolio-1"
-  - name: "404"
-    url: "/404"
 - name: Noticias
   url: ''
   submenu: ''
