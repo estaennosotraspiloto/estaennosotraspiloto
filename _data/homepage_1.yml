@@ -31,7 +31,7 @@ testimonial:
   item:
   - name: María Cordero
     designation: 'Estudiante de Ingeniería Civil '
-    image: "/assets/images/team/test-1.jpg"
+    image: ''
     content: 'La ingeniería civil es una carrera que te permite experimentar cómo
       la física y su aplicación han influenciado nuestro entorno. No cualquiera logra
       hacer que un edificio no se caiga. '
