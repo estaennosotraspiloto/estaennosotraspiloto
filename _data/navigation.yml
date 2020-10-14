@@ -23,7 +23,7 @@ main:
   submenu:
   - name: Biografía Mujeres en STEM
     url: "/blog-1"
-  - name: Blog Two
+  - name: Blog
     url: "/blog-2"
 - name: Contactos
   url: "/"
