@@ -12,12 +12,12 @@ main:
 - name: Información STEM
   url: "#"
   submenu:
-  - name: Oportunidades de becas
-    url: ''
   - name: Carreras STEM
     url: "/about"
   - name: 'Tipos de grados '
     url: "/about-me"
+  - name: Oportunidades de becas
+    url: ''
 - name: Mujeres y STEM
   url: "/blog-1"
   submenu:
