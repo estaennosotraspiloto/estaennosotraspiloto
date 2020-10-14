@@ -1,6 +1,6 @@
 ---
 main:
-- name: Noticias
+- name: Mujeres en STEM
   url: ''
   submenu: ''
 - name: Inicio
@@ -42,6 +42,9 @@ main:
   submenu: ''
 - name: Contactos
   url: "/contact"
+- name: Noticias
+  url: ''
+  submenu: ''
 footer:
 - name: Services
   url: "/services"
