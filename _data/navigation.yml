@@ -34,7 +34,7 @@ main:
     url: "/portfolio-2"
   - name: "404"
     url: "/404"
-- name: Mujeres en STEM
+- name: Noticias
   url: ''
   submenu: ''
 footer:
