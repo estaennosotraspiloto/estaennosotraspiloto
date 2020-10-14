@@ -1,8 +1,5 @@
 ---
 main:
-- name: Biografía de Mujeres en STEM
-  url: ''
-  submenu: ''
 - name: Inicio
   url: "/"
   submenu:
@@ -37,12 +34,7 @@ main:
     url: "/portfolio-2"
   - name: "404"
     url: "/404"
-- name: Blog
-  url: ''
-  submenu: ''
-- name: Contactos
-  url: "/contact"
-- name: Noticias
+- name: Biografía de Mujeres en STEM
   url: ''
   submenu: ''
 footer:
