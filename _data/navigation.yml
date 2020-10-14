@@ -32,7 +32,7 @@ main:
     url: "/services"
   - name: Centros Técnicos
     url: "/portfolio-2"
-  - name: Ministerio de Ciencia, Tecnología y Telecomunicaciones
+  - name: MICITT
     url: "/portfolio-1"
 - name: Noticias
   url: ''
