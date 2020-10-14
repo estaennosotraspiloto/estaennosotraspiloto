@@ -28,7 +28,7 @@ main:
 - name: Contactos
   url: "/"
   submenu:
-  - name: Universidades y Centros Técnicos
+  - name: 'Universidades '
     url: "/services"
   - name: Ministerio de Ciencia, Tecnología y Telecomunicaciones
     url: "/portfolio-1"
