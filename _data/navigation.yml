@@ -1,58 +1,52 @@
-#Please use the main menu items under the "name"
+---
 main:
-- name: Home
-  url: /
+- name: Inicio
+  url: "/"
   submenu:
   - name: Home 2
-    url: /index-2
+    url: "/index-2"
   - name: Home 3
-    url: /index-3
+    url: "/index-3"
   - name: Home 4
-    url: /index-4
+    url: "/index-4"
 - name: About
   url: "#"
   submenu:
-    - name: About
-      url: /about
-    - name: About Me
-      url: /about-me
+  - name: About
+    url: "/about"
+  - name: About Me
+    url: "/about-me"
 - name: Blog
-  url: /blog-1
+  url: "/blog-1"
   submenu:
   - name: Blog One
-    url: /blog-1
+    url: "/blog-1"
   - name: Blog Two
-    url: /blog-2
+    url: "/blog-2"
 - name: Pages
-  url: /
+  url: "/"
   submenu:
   - name: Services
-    url: /services
+    url: "/services"
   - name: Portfolio One
-    url: /portfolio-1   
+    url: "/portfolio-1"
   - name: Portfolio Two
-    url: /portfolio-2   
-  - name: 404
-    url: /404
+    url: "/portfolio-2"
+  - name: "404"
+    url: "/404"
 - name: Contact
-  url: /contact
-
-
-
-########## footer menu ###############
+  url: "/contact"
 footer:
 - name: Services
-  url: /services
+  url: "/services"
 - name: Portfolio One
-  url: /portfolio-1   
+  url: "/portfolio-1"
 - name: Portfolio Two
-  url: /portfolio-2   
+  url: "/portfolio-2"
 - name: Single Portfolio
-  url: /portfolio-single
+  url: "/portfolio-single"
 - name: Contact
-  url: /contact
-
-############## Bottom menu ###############
+  url: "/contact"
 bottom:
 - name: Terms of Service
   link: "#"
