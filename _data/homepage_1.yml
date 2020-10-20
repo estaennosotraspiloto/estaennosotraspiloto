@@ -1,63 +1,70 @@
----
+######################### Hero Area ##############################
 hero_area:
-  background_image: "/assets/images/bg/banner-2.png"
-  subtitle: 'Está en nosotras, está en ti. '
-  title: Sé una profesional en el área STEM
-  content: Obtén información sobre las carreras y oportunidades que existen en las
-    áreas STEM.
-  image: "/assets/images/banner/banner-img-2.png"
+  background_image : "/assets/images/bg/banner-2.png"
+  subtitle: "MY NAME IS Jessica Alba"
+  title : "I am a creative <br>UI/UX Designer <br>from London."
+  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  image : "/assets/images/banner/banner-img-2.png"
   button:
-    enable: true
-    label: 'Info aquí. '
-    link: "/about"
+    enable : true
+    label : "contact me"
+    link : "/contact"
+
+########################### Service ##############################
 services:
-- title: Brand Design
-  icon: ti-ruler-pencil
-  content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-    labore et dolore magna.
-- title: Seo & Marketing
-  icon: ti-announcement
-  content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-    labore et dolore magna.
-- title: Creative Design
-  icon: ti-palette
-  content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-    labore et dolore magna.
+- title : "Brand Design"
+  icon : "ti-ruler-pencil"
+  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+
+- title : "Seo & Marketing"
+  icon : "ti-announcement"
+  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+
+- title : "Creative Design"
+  icon : "ti-palette"
+  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+
+
+########################### Testimonial ###########################
 testimonial:
-  enable: true
-  title: " ¿Cómo es cursar una carrera STEM?"
-  subtitle: Testimonios
-  bg_image: ''
+  enable : true
+  title : "clients feedback"
+  subtitle : "testimonials"
+  bg_image : "/assets/images/bg/testimonial-bg.png"
   item:
-  - name: María Cordero
-    designation: 'Estudiante de Ingeniería Civil '
-    image: "/assets/images/team/team-2.jpg"
-    content: 'La ingeniería civil es una carrera que te permite experimentar cómo
-      la física y su aplicación han influenciado nuestro entorno. No cualquiera logra
-      hacer que un edificio no se caiga. '
-  - name: Diana Ramírez
-    designation: Estudiante de medicina
-    image: "/assets/images/team/8637915891_41bd45aae3_b.jpg"
-    content: 'Siempre supe que mi vocación era la medicina, hoy puedo decir que a
-      pesar de que algunos días son duros, todo vale la pena. '
-  - name: Jimena López
-    designation: Estudiante de Matemáticas
-    image: "/assets/images/team/6315281889_93aef81128_b.jpg"
-    content: 'El que sea difícil, no lo hace imposible. No hay mayor satisfacción
-      que lograr aquello por lo que tanto luchaste. '
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/test-1.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
+    
+  - name : "Jane Austin"
+    designation : "Designer"
+    image : "/assets/images/team/test-2.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
+    
+  - name : "Liolane hussy"
+    designation : "Developer"
+    image : "/assets/images/team/test-3.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
+
+
+######################## Fun facts ########################
 funfacts:
-  enable: true
-  bg_image: "/assets/images/bg/cta-bg.png"
+  enable : true
+  bg_image : "/assets/images/bg/cta-bg.png"
   item:
-  - name: work completed
-    icon: ti-briefcase
-    value: "370"
-  - name: new projects
-    icon: ti-paint-bucket
-    value: "450"
-  - name: Happy customers
-    icon: ti-heart
-    value: "5000"
-  - name: awards win
-    icon: ti-cup
-    value: "37"
+  - name : "work completed"
+    icon : "ti-briefcase"
+    value : "370"
+    
+  - name : "new projects"
+    icon : "ti-paint-bucket"
+    value : "450"
+    
+  - name : "Happy customers"
+    icon : "ti-heart"
+    value : "5000"
+    
+  - name : "awards win"
+    icon : "ti-cup"
+    value : "37"
