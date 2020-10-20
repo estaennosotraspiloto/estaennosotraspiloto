@@ -26,11 +26,17 @@ cta:
     label: get a quote
     link: contact
 social:
-- name: Instagram
-  icon: ''
-  link: ''
 - name: facebook
   icon: ti-facebook
+  link: "#"
+- name: twitter
+  icon: ti-twitter-alt
+  link: "#"
+- name: linkedin
+  icon: ti-linkedin
+  link: "#"
+- name: pinterest
+  icon: ti-pinterest
   link: "#"
 permalink: "/:title"
 markdown: kramdown
