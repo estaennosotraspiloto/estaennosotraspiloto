@@ -29,7 +29,7 @@ main:
   url: "/"
   submenu:
   - name: 'Universidades '
-    url: "/services"
+    url: "/contactos-de-universidades"
   - name: Centros Técnicos
     url: "/portfolio-2"
 - name: Noticias
