@@ -10,22 +10,18 @@ hero_area:
     label: 'Info aquí. '
     link: "/about"
 services:
-- title: "Brand Design"
+- title: "Ciencias"
   icon: "ti-ruler-pencil"
-  content: "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-    labore et dolore magna."
-- title: "Seo & Marketing"
-  icon: "ti-announcement"
-  content: "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-    labore et dolore magna."
-- title: "Creative Design"
-  icon: "ti-palette"
-  content: "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-    labore et dolore magna."
-- title: "Creative Design"
-  icon: "ti-palette"
-  content: "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-    labore et dolore magna."    
+  content: "Observación y experimentación para adquirir conocimientos."
+- title: "Tecnología"
+  icon: "ti-ruler-pencil"
+  content: "Resolución de problemas aplicando varias técnicas y conocimientos."
+- title: "Ingeniería"
+  icon: "ti-ruler-pencil"
+  content: "Invención, diseño, optimización y desarrollo de cualquier cosa."
+- title: "Matemáticas"
+  icon: "ti-ruler-pencil"
+  content: "Aprender sobre el razonamiento lógico y la abstracción."    
 testimonial:
   enable: true
   title: " ¿Cómo es cursar una carrera STEM?"
