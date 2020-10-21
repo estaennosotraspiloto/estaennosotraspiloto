@@ -9,7 +9,7 @@ hero_area:
   button:
     enable: true
     label: 'Info aquí. '
-    link: "/pages-carreras-en-stem"
+    link: pages-carreras-en-stem
 services:
 - title: Ciencias
   icon: ti-ruler-pencil
