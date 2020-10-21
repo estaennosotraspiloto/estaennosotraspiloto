@@ -7,7 +7,7 @@ tags:
 - ingeniería
 categories:
 - carreras stem
-post_image: "/assets/images/blog/blog-6.jpg"
+post_image: "/assets/images/blog/blog-12.jpg"
 author: 'Está en nosotras '
 
 ---
