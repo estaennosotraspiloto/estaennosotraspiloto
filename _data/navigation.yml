@@ -22,7 +22,7 @@ main:
   - name: 'Universidades '
     url: "/contactos-de-universidades"
   - name: Centros Técnicos
-    url: "/portfolio-2"
+    url: "/contacto-de-centros"
 - name: Noticias
   url: '/noticias'
 footer:
