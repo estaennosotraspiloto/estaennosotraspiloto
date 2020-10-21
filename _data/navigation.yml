@@ -2,7 +2,6 @@
 main:
 - name: Inicio
   url: "/"
-  submenu: []
 - name: Información STEM
   url: "#"
   submenu:
