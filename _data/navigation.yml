@@ -17,7 +17,7 @@ main:
   - name: 'Tipos de grados '
     url: "/tipos-de-grados"
   - name: Oportunidades de becas
-    url: ''
+    url: oportunidades-de-becas
 - name: Mujeres y STEM
   url: "/blog-1"
   submenu:
