@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "¿Cómo sé qué carrera estudiar?"
-date: 2020-01-04 14:37:13 +0000
+date: 2020-08-14 14:37:13 +0000
 tags:
 - vocación
 - habilidades
 categories:
 - 'vocación '
 author: 'Está en nosotras '
-post_image: "/assets/images/blog/blog-12.jpg"
+post_image: "/assets/images/team/blog-carrera-a-estudiar.jpg"
 featured: true
 
 ---
