@@ -1,3 +1,4 @@
+---
 hero_area:
   background_image: "/assets/images/bg/banner-2.png"
   subtitle: 'Está en nosotras, está en ti. '
@@ -8,20 +9,20 @@ hero_area:
   button:
     enable: true
     label: 'Info aquí. '
-    link: "/about"
+    link: "/pages-carreras-en-stem"
 services:
-- title: "Ciencias"
-  icon: "ti-ruler-pencil"
-  content: "Observación y experimentación para adquirir conocimientos."
-- title: "Tecnología"
-  icon: "ti-ruler-pencil"
-  content: "Resolución de problemas aplicando varias técnicas y conocimientos."
-- title: "Ingeniería"
-  icon: "ti-ruler-pencil"
-  content: "Invención, diseño, optimización y desarrollo de cualquier cosa."
-- title: "Matemáticas"
-  icon: "ti-ruler-pencil"
-  content: "Aprender sobre el razonamiento lógico y la abstracción."    
+- title: Ciencias
+  icon: ti-ruler-pencil
+  content: Observación y experimentación para adquirir conocimientos.
+- title: Tecnología
+  icon: ti-ruler-pencil
+  content: Resolución de problemas aplicando varias técnicas y conocimientos.
+- title: Ingeniería
+  icon: ti-ruler-pencil
+  content: Invención, diseño, optimización y desarrollo de cualquier cosa.
+- title: Matemáticas
+  icon: ti-ruler-pencil
+  content: Aprender sobre el razonamiento lógico y la abstracción.
 testimonial:
   enable: true
   title: " ¿Cómo es cursar una carrera STEM?"
