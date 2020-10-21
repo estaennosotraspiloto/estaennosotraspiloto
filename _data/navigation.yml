@@ -24,8 +24,7 @@ main:
   - name: Centros Técnicos
     url: "/portfolio-2"
 - name: Noticias
-  url: ''
-  submenu: ''
+  url: '/noticias'
 footer:
 - name: Services
   url: "/services"
