@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Consejos para el examen de admisión de las universidades públicas
-date: 2019-12-11T20:37:13.000+06:00
+title: "¿Por qué estudiar una ingeniería?"
+date: 2019-12-27 14:37:13 +0000
 tags:
-- universidad
-- habilidades
+- ingeniería
+- carreras stem
 categories:
-- consejos
+- carreras stem
 post_image: "/assets/images/blog/blog-6.jpg"
 author: 'Está en nosotras '
 
 ---
-<p>Es posible que sientas estrés y nerviosismo sobre el examen de admisión de la U, es por eso que en el siguiente artículo encontrarás consejos para enfrentar esta prueba de la mejor manera. </p> 
+<p>Actualmente, las ingenierías son una gran oportunidad laboral. Con la oportunidad de poder trabajar en una empresa o laborar de forma independiente, las ingenierías se convierten en una gran opción. Aquí, te mostramos el perfil laboral de las ingenierías. </p>
