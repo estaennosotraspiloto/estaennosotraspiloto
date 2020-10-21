@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Cómo sé qué carrera estudiar?"
-date: 2019-12-02 14:37:13 +0000
+date: 2020-01-04 14:37:13 +0000
 tags:
 - vocación
 - habilidades
