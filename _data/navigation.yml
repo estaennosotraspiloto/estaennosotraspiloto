@@ -13,7 +13,7 @@ main:
   url: "#"
   submenu:
   - name: Carreras STEM
-    url: "/about"
+    url: "/carreras-en-stem"
   - name: 'Tipos de grados '
     url: "/about-me"
   - name: Oportunidades de becas
