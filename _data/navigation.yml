@@ -15,7 +15,7 @@ main:
   - name: Carreras STEM
     url: "/carreras-en-stem"
   - name: 'Tipos de grados '
-    url: "/about-me"
+    url: "/tipos-de-grados"
   - name: Oportunidades de becas
     url: ''
 - name: Mujeres y STEM
