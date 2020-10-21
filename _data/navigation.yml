@@ -2,13 +2,7 @@
 main:
 - name: Inicio
   url: "/"
-  submenu:
-  - name: Home 2
-    url: "/index-2"
-  - name: Home 3
-    url: "/index-3"
-  - name: Home 4
-    url: "/index-4"
+  submenu: []
 - name: Información STEM
   url: "#"
   submenu:
