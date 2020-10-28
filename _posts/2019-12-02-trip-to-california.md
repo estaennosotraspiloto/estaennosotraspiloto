@@ -12,4 +12,12 @@ post_image: "/assets/images/team/blog-carrera-a-estudiar.jpg"
 featured: true
 
 ---
-<p>Probablemente en estos momentos sientes confusión sobre si estudiar y que carrera escoger. ¿Sientes dudas sobre cuáles son tus habilidades, gustos y pasiones? En el siguiente espacio te brindamos un test vocacional para que te redescubras y visualices todo lo que eres capaz de lograr.</p>
+<p>Probablemente en estos momentos sientes confusión sobre si estudiar y que carrera escoger. ¿Sientes dudas sobre cuáles son tus habilidades, gustos y pasiones? En el siguiente espacio te brindamos algunos tests vocacionales para que te redescubras y visualices todo lo que eres capaz de lograr.
+
+[https://www.elegircarrera.net/test-vocacional.aspx](https://www.elegircarrera.net/test-vocacional.aspx "https://www.elegircarrera.net/test-vocacional.aspx")
+
+[https://nabu.cr/](https://nabu.cr/ "https://nabu.cr/")
+
+[http://quevasaestudiar.com/test-vocacional/](http://quevasaestudiar.com/test-vocacional/ "http://quevasaestudiar.com/test-vocacional/")
+
+</p>
