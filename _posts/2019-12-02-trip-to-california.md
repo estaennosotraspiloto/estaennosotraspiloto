@@ -14,10 +14,8 @@ featured: true
 ---
 <p>Probablemente en estos momentos sientes confusión sobre si estudiar y que carrera escoger. ¿Sientes dudas sobre cuáles son tus habilidades, gustos y pasiones? En el siguiente espacio te brindamos algunos tests vocacionales para que te redescubras y visualices todo lo que eres capaz de lograr.
 
-[Test vocacional 1](https://www.elegircarrera.net/test-vocacional.aspx "Test vocacional 1")
+https://www.elegircarrera.net/test-vocacional.aspx
 
-[Test vocacional 2](https://nabu.cr/ "Test vocacional 2")
+https://nabu.cr/
 
-[Test vocacional 3](http://quevasaestudiar.com/test-vocacional/ "Test vocacional 3")
-
-</p>
+http://quevasaestudiar.com/test-vocacional/ </p>
