@@ -16,6 +16,8 @@ main:
   submenu:
   - name: Biografía Mujeres en STEM
     url: "/biografia-mujeres-en-stem"
+  - name: Blog
+    url: "/trip-to-california"
 - name: Contactos
   url: "/"
   submenu:

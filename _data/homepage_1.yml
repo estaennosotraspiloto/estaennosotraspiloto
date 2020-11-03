@@ -12,13 +12,13 @@ hero_area:
     link: "/carreras-en-stem"
 services:
 - title: Ciencias
-  icon: ti-ruler-pencil
+  icon: ti-book
   content: Observación y experimentación para adquirir conocimientos.
 - title: Tecnología
-  icon: ti-ruler-pencil
+  icon: ti-rocket
   content: Resolución de problemas aplicando varias técnicas y conocimientos.
 - title: Ingeniería
-  icon: ti-ruler-pencil
+  icon: ti-hummer
   content: Invención, diseño, optimización y desarrollo de cualquier cosa.
 - title: Matemáticas
   icon: ti-ruler-pencil
