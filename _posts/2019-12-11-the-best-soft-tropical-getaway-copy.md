@@ -19,6 +19,12 @@ author: 'Está en nosotras '
 
 <li>Busca prácticas similares al examen de admisión. </li>
 
-<li>Busca prácticas similares al examen de admisión. </li>
+<li>Si tienes dudas busca a un profesor o realiza sesiones de estudio en grupo para comparar respuestas. </li>
 
 <li>Descansa y evita estudiar el día antes al exámen. </li>
+
+<li>No olvides tu cédula o Tarjeta de identificación de menores el día de tu examen. </li>
+
+<li>Trata de mantenerte tranquila durante el examen, si encuentras una pregunta muy difícil continúa con la siguiente, no te detengas por mucho tiempo en una sola pregunta.</li>
+
+<li>Antes de entregar el examen, recuerda revisar bien la hoja de respuestas. </li>
