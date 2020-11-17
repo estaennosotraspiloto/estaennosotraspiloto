@@ -26,7 +26,8 @@ main:
   - name: Centros Técnicos
     url: "/contacto-de-centros"
 - name: Noticias
-  url: '/noticias'
+  url: "/noticias"
+- name: "¿Deseas colaborar?"
 footer:
 - name: Services
   url: "/services"
