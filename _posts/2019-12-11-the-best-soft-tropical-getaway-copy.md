@@ -27,4 +27,4 @@ author: 'Está en nosotras '
 
 <li>Trata de mantenerte tranquila durante el examen, si encuentras una pregunta muy difícil continúa con la siguiente, no te detengas por mucho tiempo en una sola pregunta.</li>
 
-<li>Antes de entregar el examen, recuerda revisar bien la hoja de respuestas. </li>
+<li>Antes de entregar el examen recuerda revisar bien la hoja de respuestas. </li>
