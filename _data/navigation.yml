@@ -18,7 +18,7 @@ main:
     url: "/biografia-mujeres-en-stem"
   - name: Blog
     url: "/trip-to-california"
-    name: '¿Deseas colaborar?'
+  - name: '¿Deseas colaborar?'
     url: "/deseas-colaborar"
 - name: Contactos
   url: "/"
