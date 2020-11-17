@@ -28,7 +28,7 @@ main:
 - name: Noticias
   url: "/noticias"
 - name: "¿Deseas colaborar?"
-  url: "/¿Deseas colaborar?"
+  url: "/deseas-colaborar"
 footer:
 - name: Services
   url: "/services"
