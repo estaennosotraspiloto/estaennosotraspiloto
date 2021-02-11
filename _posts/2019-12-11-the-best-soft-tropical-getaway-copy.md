@@ -7,7 +7,7 @@ tags:
 - habilidades
 categories:
 - consejos
-post_image: assets/images/team/untitled-design-4.png
+post_image: 'assets/images/team/untitled-design-4.png '
 author: 'Está en nosotras '
 
 ---
