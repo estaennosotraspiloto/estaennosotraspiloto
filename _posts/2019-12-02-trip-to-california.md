@@ -8,7 +8,7 @@ tags:
 categories:
 - 'vocación '
 author: 'Está en nosotras '
-post_image: "/assets/images/team/blog-carrera-a-estudiar.jpg"
+post_image: assets/images/team/untitled-design-3.png
 featured: true
 
 ---
