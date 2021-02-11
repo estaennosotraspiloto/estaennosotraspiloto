@@ -5,7 +5,7 @@ hero_area:
   title: Sé una profesional en el área STEM
   content: Obtén información sobre las carreras y oportunidades que existen en las
     áreas STEM.
-  image: "/assets/images/banner/banner-img-2.png"
+  image: assets/images/team/untitled-design.png
   button:
     enable: true
     label: 'Info aquí. '
